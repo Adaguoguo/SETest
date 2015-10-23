@@ -1,21 +1,15 @@
                                                        A small Application
-  I have used an application named "Wallpapers" for a long time , it has a great deal of 1080HD pictures which were available to beused as wallpaper.It's very easy to know how to use it , you can search all kinds of wallpaper as you can imagine. To tell the truth, it brings convinience to all of users exactly, there are many advantages that should be rewarded.But its disadvantages ar
-also much too obvious.It didn't change its old things.A software would never be successful if it doesn't make the progress 
-happened.So I summarized some disadvantages I have found for years.
+  I have been using an application named "Wallpapers" for a long time. It has a great deal of 1080HD pictures which were available to be used as wallpapers.It's very easy to learn how to use it. With this app, you can search all kinds of wallpapers as you can imagine. To tell the truth, it do brings convinience to all of its users. It has many advantages that should be rewarded, but its disadvantages are also much too obvious.It doesn't change its old things.A software would never be successful if it doesn't make progress.Therefore, I summarized some disadvantages I have found for years.
 
 
-  First of all ,the interface of the program is too simple.It's so simple that even made me want to delect it.Nowadays ,APPs 
-optimize their own interface as beautiful as they can , Wallpapers becomes lacking of competitiveness.More and more new users 
-will give it up ,only few fans insist using it.\
+  First of all ,the interface of the program is too simple.It's too simple that it even makes me want to delect it.Nowadays ,APPs optimize their own interface as beautifully as they can, so "Wallpapers" becomes lack of competitiveness.More and more new users will give it up ,but only few fans will insist on using it.
 
 
-  Second, it will use your GPRS data if you don't link to the Wifi without your permission.As we know,the HD pictures take up 
-large storge, downloading needs a lot data.That means you can only browse several wallpapers after paying much.It's just a 
-little detail, but sometimes it would leave a terrible impression to the users.This is the key to the success or failure.
+  Second, when your phone is not linked to Wifi, it will use your GPRS data without your permission.As we know,the HD pictures take up large storge. Consequently, downloading needs a lot of data.This means you can only browse several wallpapers while paying much.It's just a detail, but sometimes it would leave a terrible impression to the users.This is the key to success or failure.
 
 
-  Last one , and also the most important one--Search Engines are not intelligent!This affect the experience of the users greatly.Sometimes you just want a wallpaper of animation, but the results only give you many picture of scenery. I've been in this situation many times.If I were a new user , I must have delect it and will not download it any more.
+  Last but not least--Searching Engines are not intelligent!This affects the experience of the users greatly.Sometimes you just want a wallpaper of animation, but the searching result only gives you many pictures of scenery. I've been in this situation for many times.If I were a new user, I must have delected it and would not download it any more.
   
   
-  Those are my opnions, wish the Wallpapers could be a good APP as I imagined.
+  Those are my opnions, wish "Wallpapers" could be as good an APP as I imagine.
 
